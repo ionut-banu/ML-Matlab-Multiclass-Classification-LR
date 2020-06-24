@@ -1,4 +1,4 @@
-%% Multi-class Classification and Neural Networks 
+%% Multi-class Classification using Logistic Regression
 %
 
 %% Initialization
